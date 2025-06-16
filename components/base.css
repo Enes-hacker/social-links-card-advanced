@@ -1,0 +1,21 @@
+:root {
+    --Matrix-Green: rgb(61,152,64);
+    --Green: hsl(75, 94%, 57%);
+    --White: hsl(0, 0%, 100%);
+    --Grey-700: hsl(0, 0%, 20%);
+    --Grey-800: hsl(0, 0%, 12%);
+    --Grey-900: hsl(0, 0%, 8%);
+    --Grey-bg: hsl(0, 0%, 14%);
+    --transparency: rgba(0, 0, 0, 0.9);
+    --transparency-75: rgba(0, 0, 0, 0.5);
+
+
+     
+  
+  /* Typography */
+  --font-family: 'Kumbh Sans', sans-serif;
+  --font-size-body: 18px;
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+}
+
